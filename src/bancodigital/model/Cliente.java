@@ -1,4 +1,4 @@
-package model;
+package bancodigital.model;
 
 import java.time.LocalDate;
 
